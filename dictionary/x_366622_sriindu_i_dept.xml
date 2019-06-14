@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Dept" max_length="40" name="x_366622_sriindu_i_dept" type="collection">
+        <element label="Did" max_length="40" name="did" type="integer"/>
+        <element display="true" label="Dname" max_length="40" name="dname" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student" max_length="40" name="x_366622_sriindu_i_student" type="collection">
+        <element label="Contact" max_length="40" name="contact" type="phone_number_e164"/>
+        <element label="Dname" max_length="20" name="dname" type="string"/>
+        <element label="Sname" max_length="20" name="sname" type="string"/>
+    </element>
+</database>

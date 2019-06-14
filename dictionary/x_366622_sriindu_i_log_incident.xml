@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log_incident" max_length="40" name="x_366622_sriindu_i_log_incident" sizeclass="13" type="collection">
+        <element choice="1" label="Contact" max_length="40" name="contact" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="dept" sequence="0"/>
+                <element inactive_on_update="false" label="dept" sequence="0"/>
+            </choice>
+        </element>
+        <element label="Request Date Time" max_length="100" name="request_date_time" type="glide_date_time"/>
+        <element label="Return Date Time" max_length="100" name="return_date_time" type="glide_date_time"/>
+        <element default="null" label="sindu" max_length="100" name="sindu" type="string"/>
+        <element default="0" label="sindu short description" max_length="100" name="sindu_short_description" type="string"/>
+        <element label="sree" max_length="4000" name="sree" type="journal"/>
+        <element label="End Date" max_length="40" name="u_due_date_1" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element choice="1" label="incident contact type" max_length="40" name="x_366622_sriindu_i_incident_contact_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+            </choice>
+        </element>
+    </element>
+</database>

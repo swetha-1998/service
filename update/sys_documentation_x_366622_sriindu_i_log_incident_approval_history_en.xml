@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="approval_history" label="History" language="en" table="x_366622_sriindu_i_log_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <help/>
+            <hint/>
+            <label>History</label>
+            <language>en</language>
+            <name>x_366622_sriindu_i_log_incident</name>
+            <plural>Histories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 08:51:25</sys_created_on>
+            <sys_id>ddb0ccb41bca73001bdddb15cc4bcbeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>History</sys_name>
+            <sys_package display_value="Sriindu IT" source="x_366622_sriindu_i">6cdb315c1bca33001bdddb15cc4bcb62</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sriindu IT">6cdb315c1bca33001bdddb15cc4bcb62</sys_scope>
+            <sys_update_name>sys_documentation_x_366622_sriindu_i_log_incident_approval_history_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 08:51:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
