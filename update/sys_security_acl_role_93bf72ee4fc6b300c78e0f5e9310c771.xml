@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 09:15:37</sys_created_on>
+        <sys_id>93bf72ee4fc6b300c78e0f5e9310c771</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366622_sriindu_i_analyzing_acl.number.itil</sys_name>
+        <sys_package display_value="Sriindu IT" source="x_366622_sriindu_i">6cdb315c1bca33001bdddb15cc4bcb62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sriindu IT">6cdb315c1bca33001bdddb15cc4bcb62</sys_scope>
+        <sys_security_acl display_value="x_366622_sriindu_i_analyzing_acl.number">b9bc722e4fc6b300c78e0f5e9310c7ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_93bf72ee4fc6b300c78e0f5e9310c771</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 09:15:37</sys_updated_on>
+        <sys_user_role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

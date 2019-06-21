@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Log Incident Backup" max_length="40" name="x_366622_sriindu_i_log_incident_backup" type="collection">
+        <element choice="1" label="Facility user" max_length="100" name="facility_user" reference="sys_user" type="reference">
+            <choice/>
+        </element>
+        <element label="Log incident" max_length="32" name="log_incident" reference="sys_user" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element display="true" label="Short Description" max_length="100" name="short_description" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <index name="index">
+            <element name="log_incident"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

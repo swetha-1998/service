@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Computer Lab incident" max_length="40" name="x_366622_sriindu_i_computer_lab_incident" type="collection">
+        <element choice="1" label="Category" max_length="100" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hardware" value="hw"/>
+                <element inactive_on_update="false" label="Network" value="nt"/>
+                <element inactive_on_update="false" label="Software" value="st"/>
+            </choice>
+        </element>
+    </element>
+</database>

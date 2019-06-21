@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>sindu_flow_designer</internal_name>
+        <label_cache>[{"name":"491edd75-b933-4ede-a00a-6db126aea3a1.table_name","label":"4.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"491edd75-b933-4ede-a00a-6db126aea3a1.record","label":"4.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"3e1b6362-fcab-44d8-be1e-8aa024c87020.item","label":"4➛Task Record","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"},{"name":"8e2e3613-9fab-44f5-b2a1-ab3f9c51461f.Records","label":"1➛Request Records","reference":"sc_request","reference_display":"Request","type":"records","base_type":"records"},{"name":"8e2e3613-9fab-44f5-b2a1-ab3f9c51461f.Table","label":"1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"8e2e3613-9fab-44f5-b2a1-ab3f9c51461f.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"0f371a1c-576c-4fc9-994d-d544c6ebce05.item","label":"2➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"d3b66f36-9d49-4969-9928-f0cce2cc84ca.record","label":"2.1➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"d3b66f36-9d49-4969-9928-f0cce2cc84ca.table_name","label":"2.1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"de788361-400d-4bf8-b7cc-c301540840ba.Records","label":"3➛Task Records","reference":"task","reference_display":"Task","type":"records","base_type":"records"},{"name":"de788361-400d-4bf8-b7cc-c301540840ba.Table","label":"3➛Task Table","reference":"task","reference_display":"Task","type":"table_name","base_type":"table_name"},{"name":"de788361-400d-4bf8-b7cc-c301540840ba.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>SINDU FLOW DESIGNER</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 05:35:56</sys_created_on>
+        <sys_id>6d4aa5eb4f023300c78e0f5e9310c7a3</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>SINDU FLOW DESIGNER</sys_name>
+        <sys_package display_value="Sriindu IT" source="x_366622_sriindu_i">6cdb315c1bca33001bdddb15cc4bcb62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sriindu IT">6cdb315c1bca33001bdddb15cc4bcb62</sys_scope>
+        <sys_update_name>sys_hub_flow_6d4aa5eb4f023300c78e0f5e9310c7a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:25:07</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=6d4aa5eb4f023300c78e0f5e9310c7a3"/>
+    <sys_variable_value action="delete_multiple" query="document_key=6d4aa5eb4f023300c78e0f5e9310c7a3"/>
+</record_update>

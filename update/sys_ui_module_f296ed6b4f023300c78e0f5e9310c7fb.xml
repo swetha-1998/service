@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="SINDU mobile menu">2d76ad6b4f023300c78e0f5e9310c76a</application>
+        <filter table="incident">state=1^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>SINDU mobile module</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 05:20:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f296ed6b4f023300c78e0f5e9310c7fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SINDU mobile module</sys_name>
+        <sys_package display_value="Sriindu IT" source="x_366622_sriindu_i">6cdb315c1bca33001bdddb15cc4bcb62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sriindu IT">6cdb315c1bca33001bdddb15cc4bcb62</sys_scope>
+        <sys_update_name>sys_ui_module_f296ed6b4f023300c78e0f5e9310c7fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 05:20:54</sys_updated_on>
+        <table>incident</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
